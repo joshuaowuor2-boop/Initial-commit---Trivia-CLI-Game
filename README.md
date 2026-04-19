@@ -11,4 +11,4 @@ Players answer timed questions and receive instant feedback.
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/joshuaowuor-boop/Trivia-CLI-Game.git
+   git clone https://github.com/joshuaowuor2-boop/Trivia-CLI-Game.git
